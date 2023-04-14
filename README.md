@@ -10,7 +10,7 @@ pixeldrain: https://pixeldrain.com/u/sFvQpFaq
 
 userscloud: https://userscloud.com/vbwtzi74vnf5
 
-userscloud: https://bayfiles.com/UdW3g3l0z6/CobaltStrike4_8_zip
+bayfiles: https://bayfiles.com/UdW3g3l0z6/CobaltStrike4_8_zip
 ### China download
 bilibili private message me🤪
 ## password
