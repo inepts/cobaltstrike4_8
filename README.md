@@ -14,3 +14,6 @@ bayfiles: https://bayfiles.com/UdW3g3l0z6/CobaltStrike4_8_zip
 
 ## password
 sN6d8YOjwLSt2Koq
+
+## cobaltstrike doc
+https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm
