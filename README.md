@@ -1,4 +1,4 @@
-# cobaltstrike
+# cobaltstrike [中文](https://github.com/inepts/cobaltstrike4_8/blob/main/README_ZH.md)
 ❗**I cannot guarantee that the cracked version is safe, please run it in a virtual machine**
 ## download
 ### cobaltstrike 4.9
