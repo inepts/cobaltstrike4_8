@@ -38,3 +38,5 @@ Multiple platform support
 https://github.com/gloxec/CrossC2
 ### malleable-c2
 https://github.com/threatexpress/malleable-c2
+### HVNC
+https://github.com/WKL-Sec/HiddenDesktop/
